@@ -1,125 +1,194 @@
 <h1 align="center">Hi 👋, I'm Pavan Hegade</h1>
-<h3 align="center">AI Engineer & Full-Stack Developer building Generative AI applications, RAG pipelines, and multi-agent systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=07pavan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Python+Developer;Generative+AI+%7C+LLMs+%7C+RAG;FastAPI+Backend+Developer;Building+Multi-Agent+AI+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 Professional Summary
 
-AI Engineer and Full-Stack Developer with hands-on experience building Generative AI applications, RAG pipelines, and scalable REST APIs using Python, FastAPI, and LangChain. Skilled in developing full-stack systems with Django, React, and PostgreSQL, with a strong interest in production-grade AI and software engineering roles.
-
-- 🔭 Currently building **full-stack applications** at TAP Academy (Campus-to-Corporate program)
-- 🌱 Exploring **agentic AI architectures** — multi-agent orchestration with LangGraph
-- 💼 Portfolio: [07pavan.github.io/portfolio](https://07pavan.github.io/portfolio/)
-- 📫 Reach me: **pavanhegade06@gmail.com**
+**AI Engineer & Full-Stack Developer** passionate about building **Generative AI applications**, **LLM-powered systems**, **RAG pipelines**, and **production-ready backend APIs** using **Python**, **FastAPI**, **LangChain**, and **LangGraph**. Experienced in designing scalable AI solutions, multi-agent architectures, and modern full-stack web applications.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python · Java · SQL 
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-**AI / ML:** Generative AI · LLMs (GPT, Gemini, Claude-class) · RAG · Embeddings · Agentic AI · LangChain · LangGraph · CrewAI · scikit-learn
+### 💻 Languages
 
-**Frameworks:** FastAPI · Flask · Streamlit · Django REST Framework · React.js
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-**Databases & Vector Stores:** PostgreSQL · Pinecone · FAISS
+</td>
 
-**Cloud & Tools:** AWS (Foundational) · Docker · Git · GitHub · Firebase · Vercel · Render · Heroku
+<td align="center" width="25%">
 
-**Additional Technologies:** Angular · Next.js · Node.js · TypeScript · Vue.js · Spring · TensorFlow · OpenCV · Seaborn · Tailwind CSS · MongoDB · MySQL · SQLite · Oracle · Microsoft SQL Server · Redis
+### 🎨 Frontend
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
----
+</td>
 
-### 📌 Featured Projects
+<td align="center" width="25%">
 
-**[MLPrep AI — AI-Powered Data Analysis Platform](https://github.com/07pavan)**
-Multi-agent LangGraph pipeline with stateful, conditionally-branching orchestration for natural language data analysis, sandboxed LLM code generation, and tiered LLM routing (Gemini, Llama 3.3).
-`Python` `FastAPI` `LangGraph` `LangChain` `PostgreSQL`
+### ⚙️ Backend & Database
 
-**[GoAttend — Full-Stack Event Management System](https://go-attend.vercel.app/)**
-Full-stack event management platform with JWT-based RBAC authentication, secure REST APIs, and real-time ticket booking workflows.
-`Django` `PostgreSQL` `JavaScript`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-**[Medical Q&A Chatbot using RAG](https://github.com/07pavan/Medical_chatBOT)**
-Generative AI-powered Q&A chatbot using FastAPI and Pinecone vector-based embedding retrieval with LangChain semantic search.
-`Python` `FastAPI` `LangChain` `Pinecone`
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Education
+# 🚀 Featured Projects
 
-**B.E. in Artificial Intelligence and Data Science**
-Angadi Institute of Technology and Management, Belagavi, Karnataka (2022 – 2026)
+## 🤖 MLPrep AI – AI-Powered Data Analysis Platform
+
+**Tech:** Python, FastAPI, LangGraph, LangChain, PostgreSQL, React
+
+- Built a production-grade **Multi-Agent AI Platform** for intelligent dataset analysis.
+- Implemented **LLM-generated Python code execution** with self-healing retries.
+- Developed **ML Readiness Scoring**, profiling, quality checks, and interactive visualizations.
+- Integrated **Gemini** and **Llama 3.3** for intelligent workflow routing.
 
 ---
 
-### 📜 Certifications
+## 📊 DataCopilot – AI Data Preparation Assistant
 
-- Generative AI & LLMs Foundations: From Basics to Application
+**Tech:** Python, FastAPI, LangGraph, Firebase, PostgreSQL
+
+- AI assistant for preparing machine learning datasets.
+- Automated profiling, cleaning, feature suggestions, and quality analysis.
+- Supports CSV, Excel, JSON, and Kaggle datasets.
+
+---
+
+## 🩺 Medical AI Chatbot
+
+**Tech:** Python, FastAPI, LangChain, Pinecone
+
+- RAG-powered healthcare chatbot using vector search.
+- Semantic retrieval with embeddings for accurate medical responses.
+- FastAPI backend with scalable architecture.
+
+---
+
+## 🎫 GoAttend – Event Management System
+
+**Tech:** Django, PostgreSQL, JavaScript
+
+- Complete event booking platform.
+- JWT authentication and role-based access control.
+- REST APIs for event and ticket management.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Artificial Intelligence & Data Science**
+
+📍 Angadi Institute of Technology and Management, Belagavi
+
+🎓 2022 – 2026
+
+---
+
+## 📜 Certifications
+
+- Generative AI & LLM Foundations
+- Infosys Virtual Internship
+- TAP Academy Full Stack Development
+- AWS Academy Cloud Foundations
 - Google Analytics Certification
 
 ---
 
-### 🤝 Connect with Me
+# 📈 GitHub Activity
 
-<p align="left">
-<a href="https://www.linkedin.com/in/pavan06/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=07pavan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07pavan&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</div>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=07pavan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=07pavan&show_icons=true&locale=en&theme=default" alt="07pavan stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=07pavan&theme=algolia&row=1&column=7"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07pavan&show_icons=true&locale=en&layout=compact" alt="07pavan top langs" />
-</p>
+---
+
+# 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=07pavan" alt="07pavan streak stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=07pavan&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/pavan06/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/07pavan" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+
+<a href="https://07pavan.github.io/portfolio/" target="blank">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **"Building intelligent software that transforms ideas into real-world AI solutions."**
+
 </p>
