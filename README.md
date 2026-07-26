@@ -73,6 +73,8 @@
 
 **Tech:** Python, FastAPI, LangGraph, LangChain, React, Vite, TailwindCSS, PostgreSQL, Firebase
 
+🔗 [Live Demo](https://mlprep-ai.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/07pavan/MLprep_ai)
+
 - Full-stack AI platform for data preparation, EDA, and ML-readiness assessment.
 - LangGraph multi-agent architecture with agents for orchestration, analysis, visualization, profiling, and insights.
 - FastAPI + Python backend exposing REST APIs for ingestion, conversational analysis, and reporting.
@@ -87,6 +89,8 @@
 ## 📞 Sales-Agent – Voice AI Sales Automation
 
 **Tech:** Python, FastAPI, LiveKit, Deepgram, Cerebras LLM, WebSockets, SQLite
+
+💻 [GitHub](https://github.com/07pavan/Sales-Agent)
 
 - Voice-driven, real-time multi-agent platform acting as an automated telephone sales rep.
 - LiveKit Agents SDK for real-time WebRTC audio; Deepgram STT/TTS; Silero VAD for turn-taking.
@@ -111,25 +115,11 @@
 
 **Tech:** Django, PostgreSQL, JavaScript
 
+🔗 [Live Demo](https://go-attend.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/07pavan/EventManagement_Sys)
+
 - Full-stack event booking platform with JWT-based authentication and role-based access control.
 - REST APIs for event and ticket management.
 - Deployed frontend on Vercel and backend on Render with PostgreSQL and Cloudinary integration.
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=07pavan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07pavan&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=07pavan&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
