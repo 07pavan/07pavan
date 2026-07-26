@@ -32,8 +32,8 @@
 ### 🎨 Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 </td>
@@ -44,9 +44,8 @@
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </td>
@@ -70,64 +69,51 @@
 
 # 🚀 Featured Projects
 
-## 🤖 MLPrep AI – AI-Powered Data Analysis Platform
+## 🤖 MLPrep AI – AI-Powered Data Preparation & EDA Platform
 
-**Tech:** Python, FastAPI, LangGraph, LangChain, PostgreSQL, React
+**Tech:** Python, FastAPI, LangGraph, LangChain, React, Vite, TailwindCSS, PostgreSQL, Firebase
 
-- Built a production-grade **Multi-Agent AI Platform** for intelligent dataset analysis.
-- Implemented **LLM-generated Python code execution** with self-healing retries.
-- Developed **ML Readiness Scoring**, profiling, quality checks, and interactive visualizations.
-- Integrated **Gemini** and **Llama 3.3** for intelligent workflow routing.
-
----
-
-## 📊 DataCopilot – AI Data Preparation Assistant
-
-**Tech:** Python, FastAPI, LangGraph, Firebase, PostgreSQL
-
-- AI assistant for preparing machine learning datasets.
-- Automated profiling, cleaning, feature suggestions, and quality analysis.
-- Supports CSV, Excel, JSON, and Kaggle datasets.
+- Full-stack AI platform for data preparation, EDA, and ML-readiness assessment.
+- LangGraph multi-agent architecture with agents for orchestration, analysis, visualization, profiling, and insights.
+- FastAPI + Python backend exposing REST APIs for ingestion, conversational analysis, and reporting.
+- React + Vite + Tailwind frontend with interactive dashboards and Vega-Lite visualizations.
+- Sandboxed Python code execution with self-healing retry logic for reliable AI-generated code.
+- Integrated Groq Llama & Gemini for natural language dataset analysis and recommendations.
+- Supports CSV, Excel, JSON, Parquet, plus direct Kaggle/GitHub dataset imports.
+- Deployed on Vercel & Render with PostgreSQL, Firebase, and Parquet for persistent storage.
 
 ---
 
-## 🩺 Medical AI Chatbot
+## 📞 Sales-Agent – Voice AI Sales Automation
+
+**Tech:** Python, FastAPI, LiveKit, Deepgram, Cerebras LLM, WebSockets, SQLite
+
+- Voice-driven, real-time multi-agent platform acting as an automated telephone sales rep.
+- LiveKit Agents SDK for real-time WebRTC audio; Deepgram STT/TTS; Silero VAD for turn-taking.
+- Cerebras LLM (OpenAI-compatible SDK) for ultra-fast, low-latency response generation.
+- Multi-agent handoff between Sales, Technical, and Pricing specialist agents.
+- FastAPI + WebSocket-powered live dashboard with transcripts and call analytics (Chart.js).
+- SQLite-backed logging of call sessions and turn-level metrics.
+
+---
+
+## 🩺 Medical Q&A Chatbot using RAG
 
 **Tech:** Python, FastAPI, LangChain, Pinecone
 
-- RAG-powered healthcare chatbot using vector search.
-- Semantic retrieval with embeddings for accurate medical responses.
-- FastAPI backend with scalable architecture.
+- Generative AI-powered Q&A chatbot using FastAPI and Pinecone for vector-based embedding retrieval.
+- Contextual conversational responses via LangChain and semantic search.
+- Scalable backend APIs for intelligent query-response handling.
 
 ---
 
-## 🎫 GoAttend – Event Management System
+## 🎫 GoAttend – Full-Stack Event Management System
 
 **Tech:** Django, PostgreSQL, JavaScript
 
-- Complete event booking platform.
-- JWT authentication and role-based access control.
+- Full-stack event booking platform with JWT-based authentication and role-based access control.
 - REST APIs for event and ticket management.
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering – Artificial Intelligence & Data Science**
-
-📍 Angadi Institute of Technology and Management, Belagavi
-
-🎓 2022 – 2026
-
----
-
-## 📜 Certifications
-
-- Generative AI & LLM Foundations
-- Infosys Virtual Internship
-- TAP Academy Full Stack Development
-- AWS Academy Cloud Foundations
-- Google Analytics Certification
+- Deployed frontend on Vercel and backend on Render with PostgreSQL and Cloudinary integration.
 
 ---
 
@@ -147,16 +133,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=07pavan&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -167,22 +143,30 @@
 
 ---
 
+## 📜 Certifications
+
+| Certification | Provider |
+|---|---|
+| 🎓 Generative AI & LLMs Foundations: From Basics to Application | Udemy |
+| 📊 Google Analytics Certification | Google Cloud Skills |
+
+---
+
 ## 🌐 Connect with Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/pavan06/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://github.com/07pavan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-</a>
-
-<a href="https://07pavan.github.io/portfolio/" target="blank">
-🌐 Portfolio
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavan06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/07pavan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://07pavan.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:pavanhegade06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
