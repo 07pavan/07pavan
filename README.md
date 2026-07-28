@@ -133,6 +133,16 @@
 
 ---
 
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=07pavan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 ## 📜 Certifications
 
 | Certification | Provider |
