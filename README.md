@@ -69,35 +69,36 @@
 
 # 🚀 Featured Projects
 
-## 🤖 MLPrep AI – AI-Powered Data Preparation & EDA Platform
+## 🤖 MLPrep AI — AI-Powered Data Analyst & ML Preparation Suite
 
 **Tech:** Python, FastAPI, LangGraph, LangChain, React, Vite, TailwindCSS, PostgreSQL, Firebase
 
-🔗 [Live Demo](https://mlprep-ai.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/07pavan/MLprep_ai)
+🔗 [Live Demo](https://mlprep-ai.vercel.app/) &nbsp;|&nbsp; 🎥 [Video Demo](https://drive.google.com/file/d/1SS3IDdLGeCOIG-eDvqKvmFgxTwyuYOND/view?usp=drive_link) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/07pavan/MLprep_ai)
 
-- Full-stack AI platform for data preparation, EDA, and ML-readiness assessment.
-- LangGraph multi-agent architecture with agents for orchestration, analysis, visualization, profiling, and insights.
-- FastAPI + Python backend exposing REST APIs for ingestion, conversational analysis, and reporting.
-- React + Vite + Tailwind frontend with interactive dashboards and Vega-Lite visualizations.
-- Sandboxed Python code execution with self-healing retry logic for reliable AI-generated code.
-- Integrated Groq Llama & Gemini for natural language dataset analysis and recommendations.
-- Supports CSV, Excel, JSON, Parquet, plus direct Kaggle/GitHub dataset imports.
-- Deployed on Vercel & Render with PostgreSQL, Firebase, and Parquet for persistent storage.
+- Built a full-stack platform for analyzing CSV, Excel, JSON, and Kaggle datasets using natural-language queries and a 7-agent LangGraph pipeline.
+- Implemented LLM-based code generation with self-healing retries, Gemini/Llama 3.3 routing, interactive Vega-Lite visualizations, and persistent chat memory.
 
 ---
 
-## 📞 Sales-Agent – Voice AI Sales Automation
+## 💊 Pharmaceutical AI — Multi-Agent QMS Automation System
 
-**Tech:** Python, FastAPI, LiveKit, Deepgram, Cerebras LLM, WebSockets, SQLite
+**Tech:** Python, LangGraph, Multi-Agent Systems, LLMs, FastAPI
 
-💻 [GitHub](https://github.com/07pavan/Sales-Agent)
+🎥 [Video Demo](https://drive.google.com/file/d/165nzPhi1h_8bbhJf_DSS1G6Iub7bXWSV/view)
 
-- Voice-driven, real-time multi-agent platform acting as an automated telephone sales rep.
-- LiveKit Agents SDK for real-time WebRTC audio; Deepgram STT/TTS; Silero VAD for turn-taking.
-- Cerebras LLM (OpenAI-compatible SDK) for ultra-fast, low-latency response generation.
-- Multi-agent handoff between Sales, Technical, and Pricing specialist agents.
-- FastAPI + WebSocket-powered live dashboard with transcripts and call analytics (Chart.js).
-- SQLite-backed logging of call sessions and turn-level metrics.
+- Built an AI-assisted QMS system to manage and track pharmaceutical and medical-device quality complaints.
+- Automated complaint processing by extracting key information, checking missing details, assessing risks, finding similar complaints, and suggesting root causes and CAPA actions.
+
+---
+
+## 🎫 GoAttend — Full-Stack Event Management System
+
+**Tech:** Django, PostgreSQL, JavaScript, Cloudinary
+
+🔗 [Live Demo](https://go-attend.vercel.app/login.html) &nbsp;|&nbsp; 🎥 [Video Demo](https://drive.google.com/file/d/1gxEtn0OsGKmlF2w397vYmDZQbEU-CbL4/view?usp=drive_link) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/07pavan/EventManagement_Sys)
+
+- Built a full-stack event management and ticketing platform with JWT-based role-based access control and REST APIs.
+- Deployed the frontend on Vercel and backend on Render with PostgreSQL and Cloudinary, supporting event booking and real-time ticket management.
 
 ---
 
@@ -111,15 +112,18 @@
 
 ---
 
-## 🎫 GoAttend – Full-Stack Event Management System
+## 📞 Sales-Agent – Voice AI Sales & Customer Automation
 
-**Tech:** Django, PostgreSQL, JavaScript
+**Tech:** Python, FastAPI, LiveKit, Deepgram, Cerebras LLM, WebSockets, SQLite
 
-🔗 [Live Demo](https://go-attend.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/07pavan/EventManagement_Sys)
+💻 [GitHub](https://github.com/07pavan/Sales-Agent)
 
-- Full-stack event booking platform with JWT-based authentication and role-based access control.
-- REST APIs for event and ticket management.
-- Deployed frontend on Vercel and backend on Render with PostgreSQL and Cloudinary integration.
+- Voice-driven, real-time multi-agent platform acting as an automated telephone sales and customer service representative.
+- LiveKit Agents SDK for real-time WebRTC audio; Deepgram STT/TTS; Silero VAD for turn-taking.
+- Cerebras LLM (OpenAI-compatible SDK) for ultra-fast, low-latency response generation.
+- Multi-agent handoff between Sales, Technical, and Pricing specialist agents.
+- FastAPI + WebSocket-powered live dashboard with transcripts and call analytics (Chart.js).
+- SQLite-backed logging of call sessions and turn-level metrics.
 
 ---
 
